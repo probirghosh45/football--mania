@@ -9,4 +9,4 @@ Todo list:
 5. Font Awesome 
 6. Responsive
 7. CSS Framework : Material UI
-8. Website link : https://footballmaina.netlify.app/
+8. Website link : https://footballmaina2.netlify.app/
